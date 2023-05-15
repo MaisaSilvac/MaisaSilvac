@@ -14,6 +14,6 @@ Atualmente trabalho como Suporte Técnico N1, estou estudando sobre API e DOM e 
   <img align= "center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
   
-![Snake animation](https://github.com/MaisaSilvac/MaisaSilvac/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MaisaSilvac/maisasilvac/blob/output/github-contribution-grid-snake.svg)
 
 
