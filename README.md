@@ -6,4 +6,6 @@ Atualmente trabalho como Suporte Técnico N1, estou estudando sobre API e DOM e 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaisaSilvac)](https://github.com/MaisaSilvac/github-readme-stats)
 
+  ![Snake animation](https://github.com/MaisaSilvac/MaisaSilvac/blob/output/github-contribution-grid-snake.svg)
+
 
