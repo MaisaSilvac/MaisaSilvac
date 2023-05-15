@@ -6,4 +6,4 @@ Atualmente trabalho como Suporte Técnico N1, estou estudando sobre API e DOM e 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaisaSilvac)](https://github.com/MaisaSilvac/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaisaSilvac&repo=github-readme-stats)](https://github.com/MaisaSilvac/github-readme-stats)
+
