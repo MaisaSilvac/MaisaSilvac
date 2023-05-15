@@ -4,6 +4,4 @@ Atualmente trabalho como Suporte Técnico N1, estou estudando sobre API e DOM e 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaisaSilvac&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaisaSilvac)](https://github.com/MaisaSilvac/github-readme-stats)
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/MaisaSilvac/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaisaSilvac)](https://github.com/MaisaSilvac/github-readme-stats_icons=true&theme=tokyonight)
