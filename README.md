@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Maisa Cardoso
-Atualmente trabalho como Suporte Técnico N1, estou estudando sobre API e DOM e colocando em prática aquilo que aprendo por aqui. Quando não estou estudando, passo o tempo me divertindo com algum instrumento
+Atualmente trabalho como Suporte Técnico N1, estou estudando sobre API e DOM e colocando em prática aquilo que aprendo por aqui. Quando não estou estudando, passo o tempo me divertindo com algum instrumento musical.
 
 <div align="center">
   <a href="https://github.com/MaisaSilvac">
