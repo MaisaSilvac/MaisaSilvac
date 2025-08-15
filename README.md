@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou a Mili
 
-💻 **Desenvolvedora em Pascal** e explorando cada vez mais o **Frontend**.  
+💻 **Desenvolvedora em Pascal** e tambem sempre explorando cada vez mais o **Frontend**.  
 💼 Já trabalhei com **infraestrutura de TI**, o que me ajudou a entender **como tudo funciona por trás das telas**, desde os bastidores até o usuário final.  
 📍 Localização: Araguaína - TO  
 
