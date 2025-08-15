@@ -1,8 +1,10 @@
 ## Olá! me chamo Maisa!
-Sou uma desenvolvedora apaixonada por tecnologia, atualmento trabalho com Pascal e focada em me aperfeiçoar no desenvolvimento Frontend.
-Antes de entrar de cabeça na programação, trabalhei na área de infraestrutura de TI, o que me ajudou a entender melhor a tecnologia como um todo.
+  Sou desenvolvedora, atuando atualmente com Pascal e focada em me aperfeiçoar no desenvolvimento Frontend.
+
+  Antes de entrar de cabeça na programação, trabalhei na área de infraestrutura de TI, o que me ajudou a entender melhor a tecnologia como um todo.
 Nos meus momentos livres, adoro criar e desenvolver meus próprios projetos, assim consigo praticar novas habilidades e explorar ideias que contribuem para meu crescimento profissional.
-E fora do mundo do código, sou fã de jogos 🎮 e adoro passar momentos divertidos com meus amigos.
+
+  E fora do mundo do código, sou fã de jogos 🎮 e adoro passar momentos divertidos com meus amigos.
 Aqui no GitHub, quero retomar a publicação dos meus projetos e acompanhar minha evolução como desenvolvedora. 🚀
 
 <div align="center">
