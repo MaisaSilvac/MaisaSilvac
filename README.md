@@ -18,7 +18,8 @@
 ## Tecnologias & Skills
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
-  <img src="https://raw.githubusercontent.com/abdelrahmanhamza2000/devicons/main/icons/pascal/pascal-original.svg" height="40" alt="Pascal" />
+ 
+  <img src="./assets/icons8-pascal-48.png" alt="Pascal" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript" />
