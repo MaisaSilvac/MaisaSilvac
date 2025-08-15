@@ -1,76 +1,38 @@
-## Oii! 👋 Sou a Maisa
+# Olá! 👋 Eu sou a Mili
 
-💻 **Desenvolvedora**, atuando atualmente com **Pascal** e mergulhando cada vez mais no **desenvolvimento Frontend**.  
-💼 Já trabalhei com infraestrutura de TI, o que me ajudou a entender todo o funcionamento dos sistemas — desde os bastidores até o usuário final.  
-📍 **Localização:** Osasco, SP
+💻 **Desenvolvedora em Pascal** e explorando cada vez mais o **Frontend**.  
+💼 Já trabalhei com **infraestrutura de TI**, o que me ajudou a entender **como tudo funciona por trás das telas**, desde os bastidores até o usuário final.  
+📍 Localização: Araguaína - TO  
 
-🚀 No meu tempo livre, adoro criar projetos próprios — é assim que aprendo, testo ideias e evoluo como profissional.  
-🎮 Fora do código, sou gamer nas horas vagas e adoro passar bons momentos com meus amigos.
+---
 
-Sinta-se à vontade para explorar meus projetos por aqui! 💡✨
+## Sobre mim
 
-<table align="center" border="0" style="border-collapse: collapse; border-spacing: 0;">
-  <tr>
-    <td style="border-width: 0;">
-      <a href="https://github.com/MaisaSilvac" target="_blank">
-        <picture>
-          <source 
-            srcset="https://github-readme-stats.vercel.app/api?username=MaisaSilvac&show_icons=true&title_color=9f4fc7&icon_color=b84de3&text_color=cfc9d3&bg_color=0d1117" 
-            media="(prefers-color-scheme: dark)" 
-          />
-          <source 
-            srcset="https://github-readme-stats.vercel.app/api?username=MaisaSilvac&show_icons=true&title_color=7d1fa0&icon_color=9c27b0&text_color=333333&bg_color=ffffff" 
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
-          />
-          <img 
-            src="https://github-readme-stats.vercel.app/api?username=MaisaSilvac&show_icons=true" 
-            alt="GitHub Stats"
-          />
-        </picture>
-      </a>
-    </td>
-    <td style="border-width: 0;">
-      <a href="https://github.com/MaisaSilvac?tab=repositories" target="_blank">
-        <picture>
-          <source 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MaisaSilvac&layout=compact&title_color=9f4fc7&icon_color=b84de3&text_color=cfc9d3&bg_color=0d1117" 
-            media="(prefers-color-scheme: dark)" 
-          />
-          <source 
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MaisaSilvac&layout=compact&title_color=7d1fa0&icon_color=9c27b0&text_color=333333&bg_color=ffffff" 
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
-          />
-          <img 
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaisaSilvac&layout=compact" 
-            alt="Top Languages"
-          />
-        </picture>
-      </a>
-    </td>
-    <td align="center" valign="bottom" style="border-width: 0;">
-      <img 
-        src="https://raw.githubusercontent.com/MaisaSilvac/MaisaSilvac/main/assets/perfil_animado.gif" 
-        alt="Perfil animado da Mili" 
-        width="150"
-        style="border-radius: 12px;"
-      />
-    </td>
-  </tr>
-</table>
+🚀 Adoro criar **projetos próprios** para aprender novas tecnologias e testar ideias.  
+🎮 Gamer nas horas vagas, e adoro compartilhar risadas e bons momentos com amigos.  
+✨ Aqui no GitHub, vou retomar meus projetos e mostrar minha evolução como desenvolvedora.  
 
-##
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pascal/pascal-plain.svg" height="30" alt="Pascal" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="30" alt="Git" />
+---
+
+## Tecnologias & Skills
+
+<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
+  <img src="https://raw.githubusercontent.com/abdelrahmanhamza2000/devicons/main/icons/pascal/pascal-original.svg" height="40" alt="Pascal" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="Git" />
 </div>
 
-##
+---
+
+## Meus links
 
 <p align="left">
+  <a href="https://github.com/MaisaSilvac" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
   <a href="https://linkedin.com/in/maaisacardoso" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -79,6 +41,27 @@ Sinta-se à vontade para explorar meus projetos por aqui! 💡✨
   </a>
 </p>
 
-##
+---
 
-![Snake animation](https://github.com/MaisaSilvac/MaisaSilvac/blob/output/github-contribution-grid-snake.svg)
+## Estatísticas GitHub
+
+<table align="center" border="0" style="border-collapse: collapse; border-spacing: 0;">
+  <tr>
+    <td style="border-width: 0;">
+      <a href="https://github.com/MaisaSilvac" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api?username=MaisaSilvac&show_icons=true&theme=radical" alt="GitHub Stats"/>
+      </a>
+    </td>
+    <td style="border-width: 0;">
+      <a href="https://github.com/MaisaSilvac?tab=repositories" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaisaSilvac&layout=compact&theme=radical" alt="Top Languages"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Vamos nos conectar! 🌟
+
+Sinta-se à vontade para explorar meus projetos, deixar ⭐ nos que gostar e acompanhar minha evolução como desenvolvedora! 🚀  
