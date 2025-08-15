@@ -1,5 +1,9 @@
-## Olá! Eu sou a Maisa Cardoso
-Atualmente trabalho como Suporte Técnico N1, estou estudando sobre API e DOM e colocando em prática aquilo que aprendo por aqui. Quando não estou estudando, passo o tempo me divertindo com algum instrumento musical.
+## Olá! me chamo Maisa!
+Sou uma desenvolvedora apaixonada por tecnologia, atualmento trabalho com Pascal e focada em me aperfeiçoar no desenvolvimento Frontend.
+Antes de entrar de cabeça na programação, trabalhei na área de infraestrutura de TI, o que me ajudou a entender melhor a tecnologia como um todo.
+Nos meus momentos livres, adoro criar e desenvolver meus próprios projetos, assim consigo praticar novas habilidades e explorar ideias que contribuem para meu crescimento profissional.
+E fora do mundo do código, sou fã de jogos 🎮 e adoro passar momentos divertidos com meus amigos.
+Aqui no GitHub, quero retomar a publicação dos meus projetos e acompanhar minha evolução como desenvolvedora. 🚀
 
 <div align="center">
   <a href="https://github.com/MaisaSilvac">
