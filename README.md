@@ -12,8 +12,9 @@
 🎮 Gamer nas horas vagas, e adoro compartilhar risadas e bons momentos com amigos.  
 ✨ Aqui no GitHub, vou retomar meus projetos e mostrar minha evolução como desenvolvedora.  
 
-
 ---
+
+https://media1.tenor.com/m/9Vv35v7yPEEAAAAd/jwycat.gif
 
 ## Tecnologias & Skills
 
