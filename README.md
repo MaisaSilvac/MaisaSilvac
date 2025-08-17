@@ -13,7 +13,6 @@
 ✨ Aqui no GitHub, vou retomar meus projetos e mostrar minha evolução como desenvolvedora.  
 
 ---
-![Computador funcionando](./assets/Computer-Working-GIF.gif)
 
 ## Tecnologias & Skills
 
