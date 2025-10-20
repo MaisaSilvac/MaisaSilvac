@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou a Mili
+# Olá! 👋 Eu sou a Maisa
 
 💻 **Desenvolvedora em Pascal** e tambem sempre explorando cada vez mais o **Frontend**.  
 💼 Já trabalhei com **infraestrutura de TI**, o que me ajudou a entender **como tudo funciona por trás das telas**, desde os bastidores até o usuário final.  
